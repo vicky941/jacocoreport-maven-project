@@ -1,9 +1,4 @@
 package com.devopshint.StringPalindrome;
-
-/**
- * Hello world!
- *
- */
 public class App {
 
 	public boolean isPalindrome(String input) {
